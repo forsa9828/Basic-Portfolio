@@ -1,6 +1,11 @@
 # Basic-Portfolio
 # Recommended Assignment - That Portfolio Though
 
+https://forsa9828.github.io/Basic-Portfolio/
+
+To view Portfolio with styling please view the video below:
+https://drive.google.com/file/d/1qAIujDkFFXPZPcLDNldZlm_E_NHabxEj/view
+
 ## Overview
 
 In this assignment, you'll build a professional portfolio site using HTML/CSS. These instructions include a short style guide; follow it to design an aesthetically pleasing layout while creating different kinds of complex HTML elements.
